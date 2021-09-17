@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\bin\Debug\FriendFile.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\bin\Debug\FriendFile.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\bin\Debug\FriendFile.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 7\FriendFile\obj\Debug\FriendFile.pdb
